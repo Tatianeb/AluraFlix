@@ -1,0 +1,156 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tatiane.berrocal\\Desktop\\DocumentosEstudos\\Alura\\AluraFlix\\src\\AluraFlix.Data\\AluraFlix.Data.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tatiane.berrocal\\Desktop\\DocumentosEstudos\\Alura\\AluraFlix\\src\\AluraFlix.Business\\AluraFlix.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tatiane.berrocal\\Desktop\\DocumentosEstudos\\Alura\\AluraFlix\\src\\AluraFlix.Business\\AluraFlix.Business.csproj",
+        "projectName": "AluraFlix.Business",
+        "projectPath": "C:\\Users\\tatiane.berrocal\\Desktop\\DocumentosEstudos\\Alura\\AluraFlix\\src\\AluraFlix.Business\\AluraFlix.Business.csproj",
+        "packagesPath": "C:\\Users\\tatiane.berrocal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tatiane.berrocal\\Desktop\\DocumentosEstudos\\Alura\\AluraFlix\\src\\AluraFlix.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tatiane.berrocal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tatiane.berrocal\\Desktop\\DocumentosEstudos\\Alura\\AluraFlix\\src\\AluraFlix.Data\\AluraFlix.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tatiane.berrocal\\Desktop\\DocumentosEstudos\\Alura\\AluraFlix\\src\\AluraFlix.Data\\AluraFlix.Data.csproj",
+        "projectName": "AluraFlix.Data",
+        "projectPath": "C:\\Users\\tatiane.berrocal\\Desktop\\DocumentosEstudos\\Alura\\AluraFlix\\src\\AluraFlix.Data\\AluraFlix.Data.csproj",
+        "packagesPath": "C:\\Users\\tatiane.berrocal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tatiane.berrocal\\Desktop\\DocumentosEstudos\\Alura\\AluraFlix\\src\\AluraFlix.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tatiane.berrocal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\tatiane.berrocal\\Desktop\\DocumentosEstudos\\Alura\\AluraFlix\\src\\AluraFlix.Business\\AluraFlix.Business.csproj": {
+                "projectPath": "C:\\Users\\tatiane.berrocal\\Desktop\\DocumentosEstudos\\Alura\\AluraFlix\\src\\AluraFlix.Business\\AluraFlix.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

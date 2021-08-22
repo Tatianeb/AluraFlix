@@ -1,0 +1,5 @@
+C:\Users\tatiane.berrocal\Desktop\DocumentosEstudos\Alura\AluraFlix\src\AluraFlix.Api\obj\Debug\netcoreapp3.1\AluraFlix.Api.csprojAssemblyReference.cache
+C:\Users\tatiane.berrocal\Desktop\DocumentosEstudos\Alura\AluraFlix\src\AluraFlix.Api\obj\Debug\netcoreapp3.1\AluraFlix.Api.AssemblyInfoInputs.cache
+C:\Users\tatiane.berrocal\Desktop\DocumentosEstudos\Alura\AluraFlix\src\AluraFlix.Api\obj\Debug\netcoreapp3.1\AluraFlix.Api.AssemblyInfo.cs
+C:\Users\tatiane.berrocal\Desktop\DocumentosEstudos\Alura\AluraFlix\src\AluraFlix.Api\obj\Debug\netcoreapp3.1\AluraFlix.Api.csproj.CoreCompileInputs.cache
+C:\Users\tatiane.berrocal\Desktop\DocumentosEstudos\Alura\AluraFlix\src\AluraFlix.Api\obj\Debug\netcoreapp3.1\AluraFlix.Api.MvcApplicationPartsAssemblyInfo.cache

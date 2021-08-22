@@ -1,0 +1,15 @@
+C:\Users\tatiane.berrocal\Desktop\DocumentosEstudos\Alura\AluraFlix\src\AluraFlix.Data\obj\Debug\netcoreapp3.1\AluraFlix.Data.csprojAssemblyReference.cache
+C:\Users\tatiane.berrocal\Desktop\DocumentosEstudos\Alura\AluraFlix\src\AluraFlix.Data\obj\Debug\netcoreapp3.1\AluraFlix.Data.AssemblyInfoInputs.cache
+C:\Users\tatiane.berrocal\Desktop\DocumentosEstudos\Alura\AluraFlix\src\AluraFlix.Data\obj\Debug\netcoreapp3.1\AluraFlix.Data.AssemblyInfo.cs
+C:\Users\tatiane.berrocal\Desktop\DocumentosEstudos\Alura\AluraFlix\src\AluraFlix.Data\obj\Debug\netcoreapp3.1\AluraFlix.Data.csproj.CoreCompileInputs.cache
+C:\Users\tatiane.berrocal\Desktop\DocumentosEstudos\Alura\AluraFlix\src\AluraFlix.Data\bin\Debug\netcoreapp3.1\AluraFlix.Data.deps.json
+C:\Users\tatiane.berrocal\Desktop\DocumentosEstudos\Alura\AluraFlix\src\AluraFlix.Data\bin\Debug\netcoreapp3.1\AluraFlix.Data.dll
+C:\Users\tatiane.berrocal\Desktop\DocumentosEstudos\Alura\AluraFlix\src\AluraFlix.Data\bin\Debug\netcoreapp3.1\AluraFlix.Data.pdb
+C:\Users\tatiane.berrocal\Desktop\DocumentosEstudos\Alura\AluraFlix\src\AluraFlix.Data\bin\Debug\netcoreapp3.1\AluraFlix.Business.dll
+C:\Users\tatiane.berrocal\Desktop\DocumentosEstudos\Alura\AluraFlix\src\AluraFlix.Data\bin\Debug\netcoreapp3.1\AluraFlix.Business.pdb
+C:\Users\tatiane.berrocal\Desktop\DocumentosEstudos\Alura\AluraFlix\src\AluraFlix.Data\obj\Debug\netcoreapp3.1\AluraFlix.Data.csproj.CopyComplete
+C:\Users\tatiane.berrocal\Desktop\DocumentosEstudos\Alura\AluraFlix\src\AluraFlix.Data\obj\Debug\netcoreapp3.1\AluraFlix.Data.dll
+C:\Users\tatiane.berrocal\Desktop\DocumentosEstudos\Alura\AluraFlix\src\AluraFlix.Data\obj\Debug\netcoreapp3.1\AluraFlix.Data.pdb
+C:\Users\tatiane.berrocal\Desktop\DocumentosEstudos\Alura\AluraFlix\src\AluraFlix.Data\bin\Debug\netcoreapp3.1\AluraFlix.Data.runtimeconfig.json
+C:\Users\tatiane.berrocal\Desktop\DocumentosEstudos\Alura\AluraFlix\src\AluraFlix.Data\bin\Debug\netcoreapp3.1\AluraFlix.Data.runtimeconfig.dev.json
+C:\Users\tatiane.berrocal\Desktop\DocumentosEstudos\Alura\AluraFlix\src\AluraFlix.Data\obj\Debug\netcoreapp3.1\AluraFlix.Data.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+C:\Users\tatiane.berrocal\Desktop\DocumentosEstudos\Alura\AluraFlix\src\AluraFlix.Business\obj\Debug\netcoreapp3.1\AluraFlix.Business.csprojAssemblyReference.cache
+C:\Users\tatiane.berrocal\Desktop\DocumentosEstudos\Alura\AluraFlix\src\AluraFlix.Business\obj\Debug\netcoreapp3.1\AluraFlix.Business.AssemblyInfoInputs.cache
+C:\Users\tatiane.berrocal\Desktop\DocumentosEstudos\Alura\AluraFlix\src\AluraFlix.Business\obj\Debug\netcoreapp3.1\AluraFlix.Business.AssemblyInfo.cs
+C:\Users\tatiane.berrocal\Desktop\DocumentosEstudos\Alura\AluraFlix\src\AluraFlix.Business\obj\Debug\netcoreapp3.1\AluraFlix.Business.csproj.CoreCompileInputs.cache
+C:\Users\tatiane.berrocal\Desktop\DocumentosEstudos\Alura\AluraFlix\src\AluraFlix.Business\bin\Debug\netcoreapp3.1\AluraFlix.Business.deps.json
+C:\Users\tatiane.berrocal\Desktop\DocumentosEstudos\Alura\AluraFlix\src\AluraFlix.Business\bin\Debug\netcoreapp3.1\AluraFlix.Business.dll
+C:\Users\tatiane.berrocal\Desktop\DocumentosEstudos\Alura\AluraFlix\src\AluraFlix.Business\bin\Debug\netcoreapp3.1\AluraFlix.Business.pdb
+C:\Users\tatiane.berrocal\Desktop\DocumentosEstudos\Alura\AluraFlix\src\AluraFlix.Business\obj\Debug\netcoreapp3.1\AluraFlix.Business.dll
+C:\Users\tatiane.berrocal\Desktop\DocumentosEstudos\Alura\AluraFlix\src\AluraFlix.Business\obj\Debug\netcoreapp3.1\AluraFlix.Business.pdb

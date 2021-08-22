@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qsqp910a4fTgkjBTS7eUK3NLxZppxOFbNnr7SLLMDdk7gx6rD8AjOgv0twiTQCCXPW/yJ+PpeDK3KjxsF/QkGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tatiane.berrocal\\Desktop\\DocumentosEstudos\\Alura\\AluraFlix\\src\\AluraFlix.Business\\AluraFlix.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tatiane.berrocal\\.nuget\\packages\\fluentvalidation\\10.3.0\\fluentvalidation.10.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
